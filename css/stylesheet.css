@@ -1,0 +1,652 @@
+/*STYLESHEET FOR index.HTML*/
+
+
+h1{
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00; 
+    font-weight: 400;
+    font-style: normal;
+    font-size: 200px;
+	text-decoration: none;
+    left: 300px;
+    top: -530px;
+}
+h2{
+    font-family: sinete, sans-serif;
+    position: relative;
+    color: #D22D00; 
+    font-weight: 400;
+    font-style: normal;
+    font-size: 90px;
+	text-decoration: none;
+    left: 440px;
+    top: -1250px;
+}
+h2 a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+}
+.pianohome{
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size:100%;
+        position: relative;
+        background-size: cover;
+        margin: 0;
+}
+.topnav ul li{
+    position: relative;
+    color: #D22D00; 
+    font-size: 40px;
+    list-style-type: none;
+    font-family: sinete, sans-serif;
+    float: right;
+}    
+.topnav ul li a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    top: -1080px;
+    right: 170px;
+    margin: 50px;
+}
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    background-color: #e6e7e5;
+    background-image:url("../images/silk.jpg.png") 
+}
+
+
+.red{
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size:100%;
+        position: relative;
+        background-size: cover;
+        margin: 0;
+        top: -810px;
+}
+
+h3{
+    font-size: 100px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #080000;   
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 160px;
+    top: -1010px;
+}
+
+.piano-one{
+    position: relative;
+    margin: 40px;
+    left: -710px;
+    top: -1370px;
+}
+
+.one{
+    font-size: 50px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 600px;
+    top: -1850px; 
+}
+
+.two{
+    font-size: 30px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 670px;
+    top: -1760px; 
+}
+
+.piano-two{
+    position: relative;
+    margin: 40px;
+    top: -2040px;
+    left: -70px;
+}
+
+.three{
+    font-size: 50px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 50px;
+    top: -2500px; 
+}
+
+.four{
+    font-size: 30px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 50px;
+    top: -2400px;
+}
+
+
+.piano-three{
+    position: relative;
+    margin: 40px;
+    right: 710px;
+    top: -2660px;
+}
+
+.five{
+    font-size: 40px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 600px;
+    top: -3120px; 
+}
+
+.six{
+    font-size: 30px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 650px;
+    top: -3000px; 
+}
+
+.piano-four{
+    position: relative;
+    margin: 40px;
+    top: -3270px;
+    left: -35px;
+}
+
+.seven{
+    font-size: 35px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -10px;
+    top: -3740px;  
+}
+
+.eight{
+    font-size: 30px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -10px;
+    top: -3640px;  
+}
+
+.grey{
+    position: relative;
+    margin: 40px;
+    left: -50px;
+    top: -3500px;  
+}
+
+.encore{
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00; 
+    font-weight: 400;
+    font-style: normal;
+    font-size: 200px;
+	text-decoration: none;
+    margin: 40px;
+    left: 250px;
+    top: -4050px; 
+}
+.encore a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+}
+
+.contact{
+    font-size: 70px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 100px;
+    top: -4100px; 
+}
+
+.phone{
+    font-size: 30px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 100px;
+    top: -4100px; 
+}
+
+.email{
+    font-size: 30px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 100px;
+    top: -4100px;  
+}
+
+.subscribe{
+    font-size: 70px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 700px;
+    top: -4350px;    
+}
+
+.subscribe a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+}
+
+.newsletter{
+    font-size: 70px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 700px;
+    top: -4350px;   
+}
+
+.newsletter a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+}
+
+@media screen and (max-width: 480px) {
+
+.pianohome{
+    max-width: 100%;
+    height: auto;
+    left: 0px;
+    right: 0px;
+}
+h1{
+    font-size: 90px;
+    left: 100px;
+    top: -420px;
+}
+h2{
+    font-size: 60px;
+    left: 120px;
+    top: -990px;
+}
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-repeat: repeat-y;
+}
+.red{
+       
+        top: -610px;
+        height: 0px;
+        left: -10px;
+}
+
+h3{
+    font-size: 42px;
+    top: -560px;
+    left: 30px;
+}
+
+.piano-one{
+       top: -880px;
+        left: -740px;
+}
+
+.one{
+    font-size: 32px;
+    top: -880px;
+    left: 35px;
+}
+
+.two{
+    font-size: 20px;
+    top: -850px;
+    left: 110px;
+    margin: 0;
+}
+
+.piano-two{
+    top: -1220px;
+    left: -700px;
+}
+
+.three{
+    font-size: 40px;
+    top: -1200px;
+    left: 0px;
+}
+
+.four{
+    font-size: 20px;
+    top: -1180px;
+    left: 110px;
+    margin: 0;
+}
+
+
+.piano-three{
+    top: -1550px;
+    left: -700px;
+}
+
+.five{
+    font-size: 32px;
+    top: -1550px;
+    left: 35px; 
+}
+
+.six{
+    font-size: 20px;
+    top: -1520px;
+    left: 70px;
+    margin: 0;
+}
+
+.piano-four{
+    top: -1900px;
+    left: -700px;
+}
+
+.seven{
+    font-size: 32px;
+    top: -1900px;
+    left: 35px;  
+}
+
+.eight{
+    font-size: 20px;
+    top: -1880px;
+    left: 70px;
+    margin: 0;   
+}
+
+.encore{
+    font-size: 60px;
+    left: 120px;
+    top: -2350px; 
+}
+
+.contact{
+    font-size: 40px;
+    left: -10px;
+    top: -2350px;
+}
+
+.phone{
+    font-size: 20px; 
+    left: -10px;
+    top: -2350px; 
+}
+.email{
+    font-size: 20px;
+    left: -10px;
+    top: -2350px;  
+}
+
+.subscribe{
+    font-size: 40px;
+    left: -10px;
+    top: -2350px;
+}
+.newsletter{
+    font-size: 40px;
+    left: -10px;
+    top: -2350px; 
+}
+.grey{
+    
+    left: -50px;
+    top: -1850px;  
+    width: 10px;
+}
+}
+
+@media screen and (max-width: 768px) {
+    h1{
+        font-size: 150px;
+        left: 100px;
+        top: -500px;
+    }
+    h2{
+        font-size: 80px;
+        left: 140px;
+        top: -1100px;
+    }
+ .pianohome{
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size:100%;
+            position: relative;
+            background-size: cover;
+            margin: 0;
+    }
+    .topnav ul li{
+        position: relative;
+        color: #D22D00; 
+        font-size: 30px;
+        list-style-type: none;
+        font-family: sinete, sans-serif;
+        float: right;
+    }    
+    .topnav ul li a{
+        color: #D22D00;  
+        text-decoration: none;
+        position: relative;
+        top: -950px;
+        right: 100px;
+        margin: 30px;
+    }
+    body{
+        overflow-x: hidden;
+        overflow-y: scroll;
+        background-repeat: repeat-y;
+        background-position: center;
+        background-size: cover;
+        height: 500px;
+        background-color: #e6e7e5;
+        background-image:url("../images/silk.jpg.png") 
+    }
+    
+    
+    .red{
+          
+            top: -810px;
+            right: 10px;
+    }
+    
+    h3{
+        font-size: 80px;
+        left: 100px;
+        top: -1060px;
+    }
+    
+    .piano-one{
+        position: relative;
+        margin: 40px;
+        left: -650px;
+        top: -1400px;
+    }
+    
+    .one{
+        font-size: 42px;
+        top: -1380px;
+        left: 35px;
+    }
+    
+    .two{
+        font-size: 32px;
+        top: -1380px;
+        left:60px;
+    }
+    .piano-two{
+        position: relative;
+        margin: 40px;
+        left: -670px;
+        top: -1700px;
+        
+    }
+    
+    .three{
+        font-size: 42px;
+        top: -1700px;
+        left: 100px;
+    }
+    
+    .four{
+        
+        font-size: 32px;
+        top: -1650px;
+        left:60px;
+    }
+    
+    
+    .piano-three{
+        position: relative;
+        margin: 40px;
+        left: -650px;
+        top: -2000px;
+    }
+    
+    .five{
+        font-size: 42px;
+        top: -2000px;
+        left: -10px;
+    }
+    
+    .six{
+        font-size: 32px;
+        top: -2000px;
+        left: -10px;
+    }
+    
+    .piano-four{
+        top: -2350px;
+        left: -650px;
+    }
+    
+    .seven{
+        font-size: 45px;
+        top: -2350px;
+        left: -25px;  
+    }
+    
+    .eight{
+        font-size: 32px;
+        top: -2300px;
+        left: -10px;  
+    }
+    
+    .encore{
+        font-size: 90px;
+        top: -2800px;
+        left: 80px;  
+    }
+    
+    .contact{
+        font-size: 50px;
+        top: -2800px;
+        left: -10px;  
+    }
+    
+    .phone{
+        font-size: 20px; 
+        top: -2800px;
+        left: -10px;   
+    }
+    .email{
+        font-size: 20px; 
+        top: -2800px;
+        left: -10px;  
+    }
+    
+    .subscribe{
+        font-size: 50px;
+        top: -3000px;
+        left: 300px; 
+    }
+    .newsletter{
+        font-size: 50px;
+        top: -3000px;
+        left: 300px; 
+    }
+    .grey{
+        
+        left: -50px;
+        top: -2250px; 
+        width: 10px;
+    }
+    
+    }
